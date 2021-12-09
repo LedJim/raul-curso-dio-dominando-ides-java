@@ -9,6 +9,12 @@
 		<item value="https://github.com/LedJim/raul-curso-dio-dominando-ides-java.git"/>
 		<item value="https://github.com/LedJim/teste-dominando-ides-java.git"/>
 	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="LedJim &lt;raulrojas.totvs@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="LedJim &lt;raulrojas.totvs@gmail.com&gt;"/>
+	</list>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
 		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
 		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
@@ -18,6 +24,15 @@
 	<section name="GitCommitMessageComponent">
 		<list key="C:\Users\raul.rojas\Documents\GitHub\raul-curso-dio-dominando-ides-java\eclipse\primeiro_programa_java_bootcamp_dio\.git">
 			<item value="empty"/>
+		</list>
+		<list key="C:\Users\raul.rojas\Documents\GitHub\raul-curso-dio-dominando-ides-java\.git">
+			<item value="true"/>
+			<item value="LedJim &lt;raulrojas.totvs@gmail.com&gt;"/>
+			<item value="first commit"/>
+			<item value="LedJim &lt;raulrojas.totvs@gmail.com&gt;"/>
+			<item value="502ed5a0404c46859a1c2e1c0874b991bfd57f24"/>
+			<item value="0"/>
+			<item value="false"/>
 		</list>
 	</section>
 	<section name="CommitSelectionDialogSection">
