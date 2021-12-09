@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\raul.rojas\Documents\GitHub\raul-curso-dio-dominando-ides-java\eclipse\.metadata\.plugins\org.eclipse.jdt.core
+75931715.index
+1865797976.index
+2486198795.index

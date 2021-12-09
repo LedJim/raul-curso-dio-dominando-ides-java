@@ -1,0 +1,15 @@
+package br.com.dio;
+
+public class PrimeiroPrograma {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hola Mundo de nuevo Carajo");
+		int a = 20;
+		int b = 9;
+		int edad = a+b;
+		System.out.println(edad);
+
+	}
+
+}
