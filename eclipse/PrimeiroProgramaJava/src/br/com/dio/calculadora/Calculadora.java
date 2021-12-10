@@ -19,10 +19,16 @@ public class Calculadora {
 		int mult = mult(num1,num2);
 		float div = div(num1,num2);
 		
+		double div_dob = div_dob(num1,num2);
+		
 		System.out.println("suma " + soma);
 		System.out.println("resta " + resta);
 		System.out.println("mult " + mult);
 		System.out.println("div " + div);
+		System.out.print("div " + div_dob);
+		System.out.println("div doble " + div_dob);
+		System.out.print("div doble " + div_dob);
+		
 		
 		
 		
@@ -43,6 +49,10 @@ public class Calculadora {
 	
 	
 	public static float div(int num1, int num2) {
+		return num1 / num2;
+	}
+	
+	public static double div_dob(int num1, int num2) {
 		return num1 / num2;
 	}
 	
